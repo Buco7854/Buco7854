@@ -1,16 +1,17 @@
-
-## About Me
-
-I am a developer with a passion for coding and reading. I first discovered my interest in code during my high school years, but it wasn't until December 2020 that I decided to pursue it seriously. If you wish to learn more about me you can consult my [portfolio](https://www.grimbert.net).
-
-## Tools
-<center>
-  <img src="https://skillicons.dev/icons?i=tailwind,linux,bash,cloudflare,docker,idea,redis,nginx">
-</center>
-
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Buco7854&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=buco7854&langs_count=10&layout=compact&theme=dracula&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+<div align="center">
+  ## About Me
+  
+  I am a developer with a passion for coding and reading. I first discovered my interest in code during my high school years, but it wasn't until December 2020 that I decided to pursue it seriously. If you wish to learn more about me you can consult my [portfolio](https://www.grimbert.net).
+  
+  ## Tools
+  
+    <img src="https://skillicons.dev/icons?i=tailwind,linux,bash,cloudflare,docker,idea,redis,nginx">
+  
+  
+  
+  ## GitHub Stats
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Buco7854&show_icons=true&theme=dracula)
+  
+  ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=buco7854&langs_count=10&layout=compact&theme=dracula&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+</div>
