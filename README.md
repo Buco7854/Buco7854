@@ -13,4 +13,4 @@ My portfolio can be found at https://www.grimbert.net/. It includes a variety of
 
 ## Programming Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buco7854&hide_progress=false&theme=transparent&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=buco7854&langs_count=10&layout=compact&theme=transparent&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
