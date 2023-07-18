@@ -4,7 +4,7 @@
 I am a developer with a passion for coding and reading. I first discovered my interest in code during my high school years, but it wasn't until December 2020 that I decided to pursue it seriously. If you wish to learn more about me you can consult my [portfolio](https://www.grimbert.net).
 
 ## Tools
-<img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,nginx"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=redis,postgresql,mysql,git,idea,tailwind"/>
+<img src="https://skillicons.dev/icons?perpage=6&i=linux,docker,cloudflare,nginx,redis,postgresql,mysql,git,idea,nextjs,tailwind"/>
 
 ## GitHub Stats
 
