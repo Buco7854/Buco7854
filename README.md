@@ -9,7 +9,7 @@ My portfolio can be found at https://www.grimbert.net/. It includes a variety of
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Buco7854&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Buco7854&show_icons=true&theme=dracula&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
 ## Programming Languages
 
