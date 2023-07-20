@@ -9,7 +9,7 @@ I am a developer with a passion for coding and reading. I first discovered my in
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Buco7854&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Buco7854&show_icons=true&theme=dracula&hide_progress=true)
 
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=buco7854&langs_count=10&layout=compact&theme=dracula&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=buco7854hide_progress=true&langs_count=10&layout=compact&theme=dracula&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
