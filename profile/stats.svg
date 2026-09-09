@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Arnaud GRIMBERT's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 56, Total Commits  (last year) : 1797, Total PRs: 103, Total Issues: 75, Contributed to (last year): 11</desc>
+        <desc id="descId">Total Stars Earned: 60, Total Commits  (last year) : 1811, Total PRs: 105, Total Issues: 75, Contributed to (last year): 11</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 81.40591012096807;
+        stroke-dashoffset: 79.54595779011088;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >56</text>
+      >60</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >103</text>
+      >105</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
